@@ -1,0 +1,28 @@
+html{
+  background-image:url(images/bg.jpg);
+}
+
+main {
+background-image:url(images/header-footer.jpg);
+width: 100%; 
+text-align: center;
+color:white;
+font-family: "copper plate", "Courier New", monospace;
+}
+
+article{
+  width: 100%; 
+	max-width: 700px;
+	margin-right: auto; 
+	margin-left: auto; 
+  text-align: center;
+  font-family: "copper plate", "Courier New", monospace;
+  color:silver;
+  font-size: 12px;
+}
+footer{
+  background-image:url(images/header-footer.jpg);
+  color: white;
+  text-align:center;
+  font-family: "copper plate", "Courier New", monospace;
+}
