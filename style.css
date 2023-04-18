@@ -26,4 +26,4 @@ footer{
   text-align:center;
   font-family: "copper plate", "Courier New", monospace;
 }
-:link { color: purple; } a:visited { color: gray; } a:link:hover { color: pink; } a:visited:hover { color: pink; }
+a:visited { color: gray; } a:link:hover { color: pink; } a:visited:hover { color: pink; }
