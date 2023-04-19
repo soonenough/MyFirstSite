@@ -1,5 +1,6 @@
 html{
   background-image:url(images/bg.jpg);
+
 }
 
 header {
@@ -21,7 +22,7 @@ article{
   font-size: 12px;
 }
 
-ul{
+ol{
   list-style-type: none;
   padding-inline-start: 0px;
 }
@@ -30,6 +31,7 @@ footer{
   color: white;
   text-align:center;
   font-family: "copper plate", "Courier New", monospace;
+  height: 21px;
 }
 
 a:visited { color: gray; } a:link:hover { color: pink; } a:visited:hover { color: pink; }
