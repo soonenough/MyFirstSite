@@ -22,6 +22,11 @@ article{
   font-size: 12px;
 }
 
+ul{
+  list-style-type: none;
+  padding-inline-start: 0px;
+}
+
 ol{
   list-style-type: none;
   padding-inline-start: 0px;
